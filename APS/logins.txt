@@ -1,0 +1,8 @@
+/*	USUARIOS 	SENHAS
+
+	admin 		admin
+	teste 		teste
+	unifg 		1234
+	cco 		cco123
+	gti 		gitabc
+*/
